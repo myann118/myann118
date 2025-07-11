@@ -22,7 +22,13 @@
 - 粗利・原価自動計算、折れ線＆円グラフ付きダッシュボード
 - 関数解説付き
 
-👉 [テンプレートを開く](https://docs.google.com/spreadsheets/d/1CRiBtZguHsleBZLW237TCLoiZ8i3ufjMsBcuUf5qdos/edit?usp=sharing)
+👉!![画面プレビュー](https://user-images.githubuse<img wid<img width="709" height="484" alt="スクリーンショット 2025-07-11 155642" src="https://github.com/user-attachments/assets/df00b0f5-beb5-4845-8e6b-a691d2cc1d8a" />
+th="709" height="484" alt="スクリーンショット 2025-07-11 155642" src="https://github.com/user-attachments/assets/a35db1c8-9358-416d-88bb-c64a7ee1013f<img width="949" height="323" alt="スクリーンショット 2025-07-11 155950" src="https://github.com/user-attachments/assets/fa65b60e-17dc-49c7-bc5a-e6800e210dfc" />
+" />
+
+ [テンプレートを開く](https://docs.google.com/spreadsheets/d/1CRiBtZguHsleBZLW237TCLoiZ8i3ufjMsBcuUf5qdos/edit?usp=sharing)
+
+
 
 ---
 
