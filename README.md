@@ -1,3 +1,39 @@
+# 🌱 myann118 のポートフォリオへようこそ！
+
+営業事務職を目指し、業界問わず使える売上管理テンプレートや業務効率化のツールをGoogleスプレッドシート・Excelで制作しています。  
+食品業界向けの売上ダッシュボード、関数解説付きのテンプレートなどを公開中です。
+
+---
+
+## 📊 スキルまとめ（GitHub拡張）
+
+![myann118's GitHub stats](https://github-readme-stats.vercel.app/api?username=myann118&show_icons=true&theme=vue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myann118&layout=compact&theme=vue)
+
+![](https://komarev.com/ghpvc/?username=myann118)
+
+---
+
+## 📁 ピックアッププロジェクト
+
+### 🍱 食品業界向け・売上管理テンプレート（Googleスプレッドシート）
+- 商品別・月別・担当者別での集計
+- 粗利・原価自動計算、折れ線＆円グラフ付きダッシュボード
+- 関数解説付き
+
+👉 [テンプレートを開く](https://docs.google.com/spreadsheets/d/1CRiBtZguHsleBZLW237TCLoiZ8i3ufjMsBcuUf5qdos/edit?usp=sharing)
+
+---
+
+## ✨ 今後追加予定
+- 業務日報の自動整理ツール
+- 顧客管理（CRM）テンプレート
+- VLOOKUP / QUERY関数を活用した高度な集計表
+
+---
+
+📫 ご質問・ご連絡は GitHub Issues または [Googleフォーム](#) までお気軽に！
 ## Hi there 👋
 
 <!--
